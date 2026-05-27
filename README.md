@@ -11,7 +11,7 @@
 - 🔭 Currently building projects in **Deep Learning & Computer Vision**
 - 🌱 Learning **Machine Learning, Data Analytics & DBMS**
 - 🎯 Looking for opportunities in **ML / Data Science / AI**
-- ⚡ Fun fact: I love finding patterns in data!
+- ⚡ Fun fact: I get genuinely excited when a model's accuracy goes up even by 0.1%
 
 ---
 
@@ -24,7 +24,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -52,4 +51,3 @@
 
 ---
 
-⭐ *"Data is the new oil — and I'm here to refine it."*
