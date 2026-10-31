@@ -41,6 +41,9 @@
 > ✅ Training Accuracy: **94.17%** | Validation Accuracy: **89.17%**  
 > 🔗 [View Project](https://github.com/SonalJC/Infrastructure-damage-detection-streamlit)
 
+### Employee Salary Prediction using Machine Learning
+End-to-end ML project that predicts whether an employee earns >$50K or ≤$50K using the Adult Census Income dataset (Kaggle). Built with a Scikit-learn Pipeline (One-Hot Encoding, MinMax Scaling), Logistic Regression baseline and a Random Forest tuned with RandomizedSearchCV, deployed as an interactive Streamlit app.
+
 
 ---
 
