@@ -1,6 +1,6 @@
 # Hi there, I'm Sonal Chauhan 👋
 
-🎓 Final Year Student | Aspiring Machine Learning & AI Engineer  
+🎓 Final Year Student | Data Science & ML Fresher 
 📍 Surat, Gujarat, India  
 💡 Passionate about turning data into real-world solutions
 
@@ -40,6 +40,7 @@
 > Transfer learning model using **MobileNetV2** to detect structural damage from images  
 > ✅ Training Accuracy: **94.17%** | Validation Accuracy: **89.17%**  
 > 🔗 [View Project](https://github.com/SonalJC/Infrastructure-damage-detection-streamlit)
+
 
 ---
 
