@@ -43,13 +43,12 @@
 
 ### 💼 Employee Salary Prediction
 > Income classifier (>50K / ≤50K) using a **Scikit-learn Pipeline, tuned Random Forest & Streamlit**
+> ✅ Accuracy: **[0.79%]**
 
-> ✅ Accuracy: **[X%]** | F1: **[Y]**
 > 🔗 [View Project](https://github.com/SonalJC/employee-salary-prediction-ml)
 
 ### 💬 Comment Toxicity Detection
 > Multi-label NLP classifier for 6 toxicity types using **TF-IDF & Logistic Regression**
-
 > ✅ Macro Recall: **0.81** | Micro F1: **0.68**
 > 🔗 [View Project](https://github.com/SonalJC/comment-toxicity-detection)
 
