@@ -41,9 +41,15 @@
 > ✅ Training Accuracy: **94.17%** | Validation Accuracy: **89.17%**  
 > 🔗 [View Project](https://github.com/SonalJC/Infrastructure-damage-detection-streamlit)
 
-### Employee Salary Prediction using Machine Learning
-End-to-end ML project that predicts whether an employee earns >$50K or ≤$50K using the Adult Census Income dataset (Kaggle). Built with a Scikit-learn Pipeline (One-Hot Encoding, MinMax Scaling), Logistic Regression baseline and a Random Forest tuned with RandomizedSearchCV, deployed as an interactive Streamlit app.
+### 💼 Employee Salary Prediction
+> Income classifier (>50K / ≤50K) using a **Scikit-learn Pipeline, tuned Random Forest & Streamlit**
+> ✅ Accuracy: **[X%]** | F1: **[Y]**
+> 🔗 [View Project](https://github.com/SonalJC/employee-salary-prediction-ml)
 
+### 💬 Comment Toxicity Detection
+> Multi-label NLP classifier for 6 toxicity types using **TF-IDF & Logistic Regression**
+> ✅ Macro Recall: **0.81** | Micro F1: **0.68**
+> 🔗 [View Project](https://github.com/SonalJC/comment-toxicity-detection)
 
 ---
 
